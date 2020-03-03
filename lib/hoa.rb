@@ -8,6 +8,7 @@ BASE_HOA = {
 def add_character(show, name)
 "Snarf" << :third_earthers 
 
+show
   # Write your implementation here
   # Should return the array of the 'show' argument
 end
